@@ -1,0 +1,367 @@
+body {
+    text-align: center;
+    background-color: aliceblue;
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+* {
+    margin: 0px 0px;
+}
+
+h1 {
+    color: aliceblue;
+    font-size: 130px;
+    background-color: rgb(0, 0, 0);
+
+
+}
+
+.dh {
+    margin: 0 auto;
+    width: auto;
+    height: 70px;
+    background-color: cadetblue;
+
+
+}
+
+.dh ul li {
+    list-style: none;
+    margin-left: 370px;
+
+}
+
+.dh a {
+    float: left;
+    width: 150px;
+    line-height: 70px;
+    text-indent: 20px;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+
+}
+
+.dh li a:hover {
+    color: burlywood;
+}
+
+.dhl {
+
+
+    margin-top: 30px;
+    height: 360px;
+    background-color: aliceblue;
+
+
+
+}
+
+
+
+.dhl ul li {
+    list-style: none;
+
+
+
+}
+
+.dhl a {
+    display: block;
+    line-height: 40px;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-size: 16px;
+    float: left;
+    margin-left: 160px;
+
+}
+
+.dhl a:hover {
+    color: rgba(0, 0, 0, 0.51);
+
+}
+
+.Enote {
+    background-color: rgb(134, 134, 134);
+    width: 340px;
+    height: 400px;
+
+
+    margin-top: -290px;
+
+}
+
+.b {
+    background-color: rgba(255, 0, 0, 0.552);
+    width: 340px;
+    height: 400px;
+
+    margin-left: 340px;
+    margin-top: -397px;
+}
+
+.c {
+    background-color: rgba(69, 140, 134, 0.552);
+    width: 340px;
+    height: 400px;
+
+    margin-left: 680px;
+    margin-top: -400px;
+}
+
+
+
+.d {
+    background-color: rgb(112, 180, 223);
+    width: 340px;
+    height: 400px;
+
+
+
+}
+
+.e {
+    background-color: rgba(255, 127, 193, 0.628);
+    width: 340px;
+    height: 400px;
+
+    margin-left: 340px;
+    margin-top: -400px;
+}
+
+.f {
+    background-color: rgba(118, 77, 155, 0.628);
+    width: 340px;
+    height: 400px;
+
+    margin-left: 680px;
+    margin-top: -400px;
+}
+
+.we {
+    font-size: 50px;
+    margin-right: 400px;
+    color: aliceblue;
+
+
+}
+
+.bx {
+    color: rgb(255, 255, 255);
+    background-color: rgba(0, 0, 0, 0);
+    font-size: 30px;
+    margin-left: 120px;
+    margin-top: -120px;
+
+}
+
+.tx {
+    margin-right: 400px;
+
+
+
+}
+
+.gm {
+    font-weight: normal;
+    margin-top: 40px;
+    font-size: 30px;
+    color: aliceblue;
+}
+
+.lxwm {
+
+    width: 245.5px;
+    margin-left: 1020px;
+    margin-top: -850px;
+    height: 800px;
+    background-color: tomato;
+}
+
+.lxwm ul li {
+    list-style: none;
+    margin-right: 30px;
+    margin-top: 50px;
+
+}
+
+.lxwm a {
+    line-height: 50px;
+
+}
+
+.ah {
+    color: aliceblue;
+    margin-right: 25px;
+    height: 50px;
+
+
+}
+
+.be {
+    background-color: aliceblue;
+    color: black;
+    font-size: 90px;
+}
+
+.swyy {
+    background-color: rgb(96, 150, 220);
+    width: 340px;
+    height: 470px;
+    margin-left: 50px;
+
+
+
+}
+
+.swyya {
+    background-color: rgb(179, 54, 54);
+    width: 340px;
+    height: 470px;
+    margin-left: 390px;
+    margin-top: -470px;
+}
+
+.rd {
+    background-color: aliceblue;
+    color: black;
+    font-size: 90px;
+}
+
+.rdy {
+    background-color: rgb(211, 107, 169);
+    width: 340px;
+    height: 400px;
+    margin-left: 50px;
+}
+
+.rdya {
+    background-color: rgb(209, 102, 102);
+    width: 340px;
+    height: 400px;
+    margin-left: 390px;
+    margin-top: -400px;
+}
+
+.china {
+    background-color: rgb(222, 59, 59);
+    width: 340px;
+    height: 400px;
+    margin-left: 50px;
+}
+
+.chinaa {
+    background-color: rgb(206, 114, 114);
+    width: 340px;
+    height: 400px;
+    margin-left: 390px;
+    margin-top: -400px;
+}
+
+.jsq {
+    background-color: rgb(151, 151, 151);
+    width: 340px;
+    height: 400px;
+    margin-left: 50px;
+}
+
+.jsqa {
+    background-color: rgb(171, 171, 171);
+    width: 340px;
+    height: 400px;
+    margin-left: 390px;
+    margin-top: -400px;
+}
+
+.jeishao {
+    color: black;
+    margin-right: 300 px;
+    background-color: aliceblue;
+
+
+}
+
+.sy {
+    background-color: rgb(0, 166, 255);
+    width: 500px;
+    height: 300px;
+    margin-left: 50px;
+}
+
+.sy ul li {
+    list-style: none;
+    margin-right: 50px;
+}
+
+.sy img {
+    margin-top: 20px;
+    margin-right: 10px;
+}
+
+.kfz {
+    background-color: aliceblue;
+    color: black;
+}
+
+.xlw {
+    background-color: bisque;
+    width: 500px;
+    height: 300px;
+    margin-left: 50px;
+}
+
+.xlw img {
+    margin-top: 50px;
+}
+
+.xlw ul li {
+    list-style: none;
+    margin-right: 50px;
+}
+
+.zhp {
+    background-color: bisque;
+    width: 500px;
+    height: 300px;
+    margin-left: 740px;
+    margin-top: -300px;
+}
+
+.zhp img {
+    margin-top: 50px;
+}
+
+.zhp ul li {
+    list-style: none;
+    margin-right: 50px;
+}
+
+.gy {
+    margin-top: 15px;
+
+    height: 100px;
+    background-color: aliceblue;
+    margin-left: 450px;
+
+}
+
+.gy dl {
+    float: left;
+    line-height: 25px;
+    margin-left: 50px;
+}
+
+.gy a {
+    text-decoration: none;
+    color: black;
+}
+
+.gy a:hover {
+    color: rgb(255, 0, 0)
+}
