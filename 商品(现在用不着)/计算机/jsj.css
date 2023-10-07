@@ -1,0 +1,41 @@
+body {
+    text-align: center;
+    font-family: sans-serif;
+}
+
+* {
+    margin: 0px 0px;
+}
+
+.fh {
+
+    height: 50px;
+}
+
+.fh h1 {
+    display: inline;
+    font-size: 30px;
+
+    margin-right: 400px;
+}
+
+.fh a {
+    color: rgb(0, 0, 0);
+    line-height: 50px;
+    text-decoration: none;
+
+
+
+
+}
+
+.fh a:hover {
+    color: rgb(65, 137, 231);
+
+}
+
+.ben {
+    display: inline;
+    color: rgb(0, 0, 0);
+    font-weight: lighter;
+}

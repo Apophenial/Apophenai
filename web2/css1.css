@@ -1,0 +1,109 @@
+body {
+    text-align: center;
+    font-family: sans-serif;
+}
+
+* {
+    margin: 0px 0px;
+}
+
+.fh {
+
+    height: 50px;
+}
+
+.fh h1 {
+    display: inline;
+    font-size: 30px;
+
+    margin-right: 400px;
+}
+
+.fh a {
+    color: rgb(0, 0, 0);
+    line-height: 50px;
+    text-decoration: none;
+
+
+
+
+}
+
+.fh a:hover {
+    color: rgb(65, 137, 231);
+
+}
+
+.ben {
+    display: inline;
+    color: rgb(0, 0, 0);
+    font-weight: lighter;
+}
+
+.biaotilan {
+    height: 70px;
+
+
+
+}
+
+ul .blank {
+    color: aliceblue;
+    background-color: black;
+}
+
+ul .huise {
+    color: aliceblue;
+
+
+}
+
+.biaotilan ul li {
+    list-style: none;
+    float: left;
+    margin-left: 120px;
+    line-height: 70px;
+}
+
+.biaotilan a {
+    text-decoration: none;
+
+    color: rgb(0, 0, 0);
+}
+
+.biaotilan a:hover {
+
+    color: blue;
+
+
+}
+
+.biankuang {
+    height: 500px;
+    width: 900px;
+    margin-left: 200px;
+    background-color: rgba(0, 0, 0, 0.1);
+    margin-top: 50px;
+
+
+}
+
+
+
+
+
+.biankuang dl {
+    float: left;
+    text-indent: 50px;
+    line-height: 50px;
+
+}
+
+.hgt {
+
+    font-size: 90px;
+    color: rgba(0, 0, 0, 0.7);
+
+}
+
+.biankuang a {}
